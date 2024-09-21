@@ -1,0 +1,14 @@
+May 23:
+-Changed the standard for narrated interactions. (periods at the end of sequences)
+-Implemented inventory system, with included custom functions for adding, removing, and checking
+-Implemented variables for items in the game in order to add attributes afterwards
+-Worked out some bugs in the "impoverished" path, where "Print" should've been "print".
+-Revised some dialogue
+
+May 27
+-Added the Scoundrel initial inventory gear kit
+-Added the Scoundrel interaction with the Stranger
+
+May 30
+-added the Magician and Mender initial gear kit
+-Added the Magician and Mender interaction with the Stranger
